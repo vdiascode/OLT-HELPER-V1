@@ -69,10 +69,10 @@ def conectar_olt(ip):
     tn = telnetlib.Telnet(ip, 23, timeout=10)
 
     tn.read_until(b"Username:")
-    tn.write(b"valenet\n")
+    tn.write(b"XXXXXX\n") #colocar usuario de acesso a OLT
 
     tn.read_until(b"Password:")
-    tn.write(b"P@w3r\n")
+    tn.write(b"XXXXXXXX\n") # colocar senha de acesso a OLT
 
     tn.read_until(b"#")
 
