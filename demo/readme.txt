@@ -1,0 +1,1 @@
+Nessa pasta possui alguns prints da utilizando a automação em um atendimento real, no qual a cliente reclamava de desconexões, o programa me entregou os dados que eu precisava rapidamente, o que reduziu consideravelmente o tempo do atendimento.
